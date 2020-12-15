@@ -1,0 +1,14 @@
+img {
+  margin-top: 50px;
+  display: block;
+  margin: 13px;
+  width: 550px; 
+  height: 150px;
+  box-shadow: black 0px 0px 30px 9px;
+}
+
+.fondo {
+  background-image: url(img/fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
